@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.top{
+    margin: 0 auto;
+    background-color: #a9180a;
+    height: 32.8px;
+    font-size: 12px;
+    line-height: 32px;
+
+}/*顶部最外面*/
+.topm{
+    margin:0 auto;
+    background-color: #a9180a;
+    color: white;
+    height: 32px;
+    width:1230px;
+}
+.topml{
+    width: 218px;
+    height: 32.8px;
+    background-color: #a9180a;
+    color: white;
+    float:left;
+    line-height: 32.8px;
+}/*头部中间左边*/
+.topml a{
+    color:white;
+}
+.topmr{
+    height: 33px;
+    padding-right: 14px;
+    background-color: #a9180a;
+    color: white;
+    float:right;
+}
+.app{
+    width:175px;
+    height: 210px;
+    position: relative;
+    top: 0;
+    right: 70px;
+    background: url( img/app.png)0 0 no-repeat;
+    /*background-color: #ff6709;*/
+
+}
